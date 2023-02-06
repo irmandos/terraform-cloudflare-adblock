@@ -1,6 +1,6 @@
 variable "team_name" {
   type        = string
-  description = "bothahome.cloudflareaccess.com"
+  description = "bothahome"
 }
 
 variable "logo_path" {
